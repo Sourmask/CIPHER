@@ -1,0 +1,103 @@
+incident_id,date,location_id,crime_type,description,mentioned_person_ids
+FIR001,2026-01-27,L011,Illegal Gambling,Two persons were reported near Civil Lines. Persons P137 and P055 were mentioned in the preliminary report.,P137|P055
+FIR002,2026-01-05,L015,Burglary,Two persons were reported near Aundh. Persons P129 and P036 were mentioned in the preliminary report.,P129|P036
+FIR003,2026-03-30,L004,Cyber Fraud,Two persons were reported near Wakad. Persons P035 and P001 were mentioned in the preliminary report.,P035|P001
+FIR004,2026-04-14,L011,Illegal Gambling,Two persons were reported near Civil Lines. Persons P083 and P042 were mentioned in the preliminary report.,P083|P042
+FIR005,2026-05-07,L004,Robbery,Two persons were reported near Wakad. Persons P131 and P107 were mentioned in the preliminary report.,P131|P107
+FIR006,2026-02-11,L011,Extortion,Two persons were reported near Civil Lines. Persons P099 and P064 were mentioned in the preliminary report.,P099|P064
+FIR007,2026-06-14,L002,Burglary,Two persons were reported near Shivajinagar. Persons P122 and P133 were mentioned in the preliminary report.,P122|P133
+FIR008,2026-05-05,L018,Burglary,Two persons were reported near Bavdhan. Persons P112 and P084 were mentioned in the preliminary report.,P112|P084
+FIR009,2026-04-15,L009,Illegal Gambling,Two persons were reported near Thane. Persons P068 and P118 were mentioned in the preliminary report.,P068|P118
+FIR010,2026-02-24,L009,Vehicle Theft,Two persons were reported near Thane. Persons P134 and P003 were mentioned in the preliminary report.,P134|P003
+FIR011,2026-01-28,L018,Burglary,Two persons were reported near Bavdhan. Persons P035 and P132 were mentioned in the preliminary report.,P035|P132
+FIR012,2026-02-19,L013,Illegal Gambling,Two persons were reported near Kondhwa. Persons P047 and P045 were mentioned in the preliminary report.,P047|P045
+FIR013,2026-04-14,L016,Illegal Gambling,Two persons were reported near Satara Road. Persons P135 and P005 were mentioned in the preliminary report.,P135|P005
+FIR014,2026-03-03,L014,Fraud,Two persons were reported near Pimpri. Persons P073 and P105 were mentioned in the preliminary report.,P073|P105
+FIR015,2026-01-25,L014,Extortion,Two persons were reported near Pimpri. Persons P146 and P069 were mentioned in the preliminary report.,P146|P069
+FIR016,2026-04-04,L014,Fraud,Two persons were reported near Pimpri. Persons P016 and P096 were mentioned in the preliminary report.,P016|P096
+FIR017,2026-05-23,L001,Extortion,Two persons were reported near Kothrud. Persons P102 and P058 were mentioned in the preliminary report.,P102|P058
+FIR018,2026-05-31,L019,Fraud,Two persons were reported near Yerawada. Persons P080 and P010 were mentioned in the preliminary report.,P080|P010
+FIR019,2026-05-10,L010,Illegal Gambling,Two persons were reported near Nashik Road. Persons P127 and P043 were mentioned in the preliminary report.,P127|P043
+FIR020,2026-01-06,L019,Cyber Fraud,Two persons were reported near Yerawada. Persons P078 and P088 were mentioned in the preliminary report.,P078|P088
+FIR021,2026-05-08,L020,Fraud,Two persons were reported near Kalyani Nagar. Persons P138 and P009 were mentioned in the preliminary report.,P138|P009
+FIR022,2026-06-20,L017,Cyber Fraud,Two persons were reported near Market Yard. Persons P057 and P094 were mentioned in the preliminary report.,P057|P094
+FIR023,2026-02-26,L010,Illegal Gambling,Two persons were reported near Nashik Road. Persons P002 and P033 were mentioned in the preliminary report.,P002|P033
+FIR024,2026-04-24,L005,Illegal Gambling,Two persons were reported near Viman Nagar. Persons P040 and P037 were mentioned in the preliminary report.,P040|P037
+FIR025,2026-06-03,L005,Cyber Fraud,Two persons were reported near Viman Nagar. Persons P130 and P077 were mentioned in the preliminary report.,P130|P077
+FIR026,2026-06-25,L001,Cyber Fraud,Two persons were reported near Kothrud. Persons P049 and P080 were mentioned in the preliminary report.,P049|P080
+FIR027,2026-05-22,L013,Vehicle Theft,Two persons were reported near Kondhwa. Persons P139 and P033 were mentioned in the preliminary report.,P139|P033
+FIR028,2026-04-14,L008,Fraud,Two persons were reported near Dadar. Persons P058 and P149 were mentioned in the preliminary report.,P058|P149
+FIR029,2026-04-03,L018,Fraud,Two persons were reported near Bavdhan. Persons P057 and P116 were mentioned in the preliminary report.,P057|P116
+FIR030,2026-01-05,L012,Cyber Fraud,Two persons were reported near Camp. Persons P067 and P088 were mentioned in the preliminary report.,P067|P088
+FIR031,2026-05-08,L001,Illegal Gambling,Two persons were reported near Kothrud. Persons P133 and P012 were mentioned in the preliminary report.,P133|P012
+FIR032,2026-03-03,L015,Cyber Fraud,Two persons were reported near Aundh. Persons P008 and P122 were mentioned in the preliminary report.,P008|P122
+FIR033,2026-04-06,L003,Extortion,Two persons were reported near Hadapsar. Persons P090 and P036 were mentioned in the preliminary report.,P090|P036
+FIR034,2026-03-12,L006,Burglary,Two persons were reported near Baner. Persons P028 and P117 were mentioned in the preliminary report.,P028|P117
+FIR035,2026-01-29,L018,Fraud,Two persons were reported near Bavdhan. Persons P014 and P137 were mentioned in the preliminary report.,P014|P137
+FIR036,2026-03-23,L009,Illegal Gambling,Two persons were reported near Thane. Persons P083 and P063 were mentioned in the preliminary report.,P083|P063
+FIR037,2026-02-04,L017,Vehicle Theft,Two persons were reported near Market Yard. Persons P053 and P110 were mentioned in the preliminary report.,P053|P110
+FIR038,2026-05-19,L012,Fraud,Two persons were reported near Camp. Persons P105 and P075 were mentioned in the preliminary report.,P105|P075
+FIR039,2026-02-17,L011,Burglary,Two persons were reported near Civil Lines. Persons P109 and P112 were mentioned in the preliminary report.,P109|P112
+FIR040,2026-03-21,L019,Burglary,Two persons were reported near Yerawada. Persons P143 and P124 were mentioned in the preliminary report.,P143|P124
+FIR041,2026-03-28,L003,Cyber Fraud,Two persons were reported near Hadapsar. Persons P119 and P059 were mentioned in the preliminary report.,P119|P059
+FIR042,2026-04-09,L004,Robbery,Two persons were reported near Wakad. Persons P019 and P084 were mentioned in the preliminary report.,P019|P084
+FIR043,2026-02-01,L005,Vehicle Theft,Two persons were reported near Viman Nagar. Persons P015 and P134 were mentioned in the preliminary report.,P015|P134
+FIR044,2026-06-13,L017,Vehicle Theft,Two persons were reported near Market Yard. Persons P013 and P146 were mentioned in the preliminary report.,P013|P146
+FIR045,2026-03-02,L014,Vehicle Theft,Two persons were reported near Pimpri. Persons P014 and P050 were mentioned in the preliminary report.,P014|P050
+FIR046,2026-02-05,L014,Illegal Gambling,Two persons were reported near Pimpri. Persons P119 and P069 were mentioned in the preliminary report.,P119|P069
+FIR047,2026-06-08,L017,Robbery,Two persons were reported near Market Yard. Persons P074 and P143 were mentioned in the preliminary report.,P074|P143
+FIR048,2026-04-23,L016,Burglary,Two persons were reported near Satara Road. Persons P071 and P091 were mentioned in the preliminary report.,P071|P091
+FIR049,2026-01-21,L018,Extortion,Two persons were reported near Bavdhan. Persons P132 and P091 were mentioned in the preliminary report.,P132|P091
+FIR050,2026-01-11,L001,Vehicle Theft,Two persons were reported near Kothrud. Persons P094 and P044 were mentioned in the preliminary report.,P094|P044
+FIR051,2026-01-09,L013,Extortion,Two persons were reported near Kondhwa. Persons P079 and P071 were mentioned in the preliminary report.,P079|P071
+FIR052,2026-02-01,L019,Fraud,Two persons were reported near Yerawada. Persons P123 and P061 were mentioned in the preliminary report.,P123|P061
+FIR053,2026-01-19,L017,Burglary,Two persons were reported near Market Yard. Persons P030 and P130 were mentioned in the preliminary report.,P030|P130
+FIR054,2026-06-26,L010,Fraud,Two persons were reported near Nashik Road. Persons P018 and P129 were mentioned in the preliminary report.,P018|P129
+FIR055,2026-01-29,L017,Fraud,Two persons were reported near Market Yard. Persons P040 and P026 were mentioned in the preliminary report.,P040|P026
+FIR056,2026-01-05,L002,Cyber Fraud,Two persons were reported near Shivajinagar. Persons P010 and P028 were mentioned in the preliminary report.,P010|P028
+FIR057,2026-01-17,L006,Vehicle Theft,Two persons were reported near Baner. Persons P061 and P001 were mentioned in the preliminary report.,P061|P001
+FIR058,2026-06-09,L010,Illegal Gambling,Two persons were reported near Nashik Road. Persons P047 and P030 were mentioned in the preliminary report.,P047|P030
+FIR059,2026-03-25,L019,Illegal Gambling,Two persons were reported near Yerawada. Persons P019 and P076 were mentioned in the preliminary report.,P019|P076
+FIR060,2026-01-03,L005,Robbery,Two persons were reported near Viman Nagar. Persons P006 and P138 were mentioned in the preliminary report.,P006|P138
+FIR061,2026-03-01,L001,Cyber Fraud,Two persons were reported near Kothrud. Persons P132 and P143 were mentioned in the preliminary report.,P132|P143
+FIR062,2026-04-08,L005,Vehicle Theft,Two persons were reported near Viman Nagar. Persons P092 and P083 were mentioned in the preliminary report.,P092|P083
+FIR063,2026-03-19,L018,Robbery,Two persons were reported near Bavdhan. Persons P118 and P070 were mentioned in the preliminary report.,P118|P070
+FIR064,2026-04-17,L003,Vehicle Theft,Two persons were reported near Hadapsar. Persons P137 and P117 were mentioned in the preliminary report.,P137|P117
+FIR065,2026-06-08,L017,Burglary,Two persons were reported near Market Yard. Persons P017 and P044 were mentioned in the preliminary report.,P017|P044
+FIR066,2026-01-19,L013,Extortion,Two persons were reported near Kondhwa. Persons P115 and P033 were mentioned in the preliminary report.,P115|P033
+FIR067,2026-03-08,L017,Extortion,Two persons were reported near Market Yard. Persons P001 and P144 were mentioned in the preliminary report.,P001|P144
+FIR068,2026-02-20,L017,Illegal Gambling,Two persons were reported near Market Yard. Persons P099 and P148 were mentioned in the preliminary report.,P099|P148
+FIR069,2026-02-12,L006,Robbery,Two persons were reported near Baner. Persons P022 and P056 were mentioned in the preliminary report.,P022|P056
+FIR070,2026-02-26,L019,Fraud,Two persons were reported near Yerawada. Persons P004 and P134 were mentioned in the preliminary report.,P004|P134
+FIR071,2026-02-09,L013,Vehicle Theft,Two persons were reported near Kondhwa. Persons P046 and P048 were mentioned in the preliminary report.,P046|P048
+FIR072,2026-04-10,L011,Burglary,Two persons were reported near Civil Lines. Persons P078 and P031 were mentioned in the preliminary report.,P078|P031
+FIR073,2026-01-21,L020,Burglary,Two persons were reported near Kalyani Nagar. Persons P145 and P144 were mentioned in the preliminary report.,P145|P144
+FIR074,2026-02-11,L014,Illegal Gambling,Two persons were reported near Pimpri. Persons P022 and P065 were mentioned in the preliminary report.,P022|P065
+FIR075,2026-06-13,L010,Cyber Fraud,Two persons were reported near Nashik Road. Persons P015 and P114 were mentioned in the preliminary report.,P015|P114
+FIR076,2026-06-11,L012,Vehicle Theft,Two persons were reported near Camp. Persons P108 and P046 were mentioned in the preliminary report.,P108|P046
+FIR077,2026-05-14,L014,Fraud,Two persons were reported near Pimpri. Persons P031 and P146 were mentioned in the preliminary report.,P031|P146
+FIR078,2026-02-14,L018,Burglary,Two persons were reported near Bavdhan. Persons P037 and P062 were mentioned in the preliminary report.,P037|P062
+FIR079,2026-02-18,L011,Fraud,Two persons were reported near Civil Lines. Persons P020 and P106 were mentioned in the preliminary report.,P020|P106
+FIR080,2026-05-15,L020,Cyber Fraud,Two persons were reported near Kalyani Nagar. Persons P123 and P049 were mentioned in the preliminary report.,P123|P049
+FIR081,2026-02-13,L002,Vehicle Theft,Two persons were reported near Shivajinagar. Persons P118 and P023 were mentioned in the preliminary report.,P118|P023
+FIR082,2026-05-21,L007,Robbery,Two persons were reported near Andheri. Persons P131 and P106 were mentioned in the preliminary report.,P131|P106
+FIR083,2026-01-15,L016,Robbery,Two persons were reported near Satara Road. Persons P021 and P087 were mentioned in the preliminary report.,P021|P087
+FIR084,2026-03-12,L004,Fraud,Two persons were reported near Wakad. Persons P043 and P046 were mentioned in the preliminary report.,P043|P046
+FIR085,2026-05-06,L001,Fraud,Two persons were reported near Kothrud. Persons P089 and P002 were mentioned in the preliminary report.,P089|P002
+FIR086,2026-04-19,L010,Fraud,Two persons were reported near Nashik Road. Persons P023 and P106 were mentioned in the preliminary report.,P023|P106
+FIR087,2026-06-04,L019,Illegal Gambling,Two persons were reported near Yerawada. Persons P115 and P138 were mentioned in the preliminary report.,P115|P138
+FIR088,2026-06-30,L016,Vehicle Theft,Two persons were reported near Satara Road. Persons P067 and P138 were mentioned in the preliminary report.,P067|P138
+FIR089,2026-05-23,L012,Burglary,Two persons were reported near Camp. Persons P024 and P081 were mentioned in the preliminary report.,P024|P081
+FIR090,2026-01-20,L013,Cyber Fraud,Two persons were reported near Kondhwa. Persons P061 and P106 were mentioned in the preliminary report.,P061|P106
+FIR091,2026-01-12,L001,Burglary,Two persons were reported near Kothrud. Persons P004 and P063 were mentioned in the preliminary report.,P004|P063
+FIR092,2026-04-22,L002,Fraud,Two persons were reported near Shivajinagar. Persons P084 and P005 were mentioned in the preliminary report.,P084|P005
+FIR093,2026-05-04,L005,Illegal Gambling,Two persons were reported near Viman Nagar. Persons P026 and P081 were mentioned in the preliminary report.,P026|P081
+FIR094,2026-06-24,L018,Fraud,Two persons were reported near Bavdhan. Persons P126 and P103 were mentioned in the preliminary report.,P126|P103
+FIR095,2026-02-14,L019,Extortion,Two persons were reported near Yerawada. Persons P062 and P040 were mentioned in the preliminary report.,P062|P040
+FIR096,2026-04-29,L017,Burglary,Two persons were reported near Market Yard. Persons P107 and P051 were mentioned in the preliminary report.,P107|P051
+FIR097,2026-06-08,L015,Illegal Gambling,Two persons were reported near Aundh. Persons P065 and P017 were mentioned in the preliminary report.,P065|P017
+FIR098,2026-06-05,L005,Fraud,Two persons were reported near Viman Nagar. Persons P102 and P003 were mentioned in the preliminary report.,P102|P003
+FIR099,2026-03-21,L016,Vehicle Theft,Two persons were reported near Satara Road. Persons P117 and P027 were mentioned in the preliminary report.,P117|P027
+FIR100,2026-04-12,L002,Cyber Fraud,Two persons were reported near Shivajinagar. Persons P136 and P099 were mentioned in the preliminary report.,P136|P099
+FIR101,2026-05-14,L001,Robbery,"Arjun Mehta, also known as AJ, was seen meeting Sameer Khan near Kothrud. A white SUV was observed nearby.",P001|P007
+FIR102,2026-06-02,L017,Fraud,A white SUV linked to P031 was observed near Market Yard while several financial transfers were recorded.,P031|P033
